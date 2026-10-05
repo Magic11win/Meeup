@@ -1,0 +1,6 @@
+{
+  "name": "Meetup",
+  "description": "Fast, encrypted real-time messaging, voice & video calling, status updates, and persistent live location radar with granular permission controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

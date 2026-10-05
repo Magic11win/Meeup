@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meetup</string>
+    <string name="tagline">End-to-End Encrypted Messaging &amp; Persistent Live Radar</string>
+    <string name="login_title">Welcome to Meetup</string>
+    <string name="login_subtitle">Verify your mobile number to start encrypted chats, status updates, and live radar sharing.</string>
+    <string name="phone_label">Mobile Number</string>
+    <string name="name_label">Display Name</string>
+    <string name="send_otp">Send Verification Code</string>
+    <string name="verify_otp">Verify &amp; Continue</string>
+    <string name="tab_chats">Chats</string>
+    <string name="tab_status">Status</string>
+    <string name="tab_radar">Live Radar</string>
+    <string name="tab_calls">Calls</string>
+    <string name="tab_settings">Settings</string>
+    <string name="e2ee_banner">Messages and calls are end-to-end encrypted with AES-GCM-256. No one outside of this chat can read or listen to them.</string>
+    <string name="persistent_radar_desc">Grant trusted contacts long-term live location access — they can view your real-time movement on the map anytime (even a year later) until you revoke permission.</string>
+</resources>
